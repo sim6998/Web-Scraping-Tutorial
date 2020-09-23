@@ -1,0 +1,22 @@
+---Web Scraping--
+
+two parts:
+
+1) A Web Crawler:
+	- The Crawler leads the scrapper and extracts requested data.
+	- The Crawler is generally called 'Spider'.
+	- It is AI Technology that browse internet to index and search the content by given links.
+	- It search relevent information asked by programmer.
+
+2) A Web Scraper:
+	-It is an dedicated tool that is design to extract the data from several websites quickly and effectivly.
+
+Steps:-
+
+1) Find URL that you want to scrape.
+
+2) Inspecting the page.
+
+3) Write the code.
+
+4) Store data in the file.(csv,xml,JSON)
